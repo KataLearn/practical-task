@@ -330,8 +330,8 @@ margin-top: 0px;
 
   .description__image-inner--img{
   
-    display: block;
-  
+  display: block;
+  border-radius: 5px;
   width: 100%;
   }
 }
